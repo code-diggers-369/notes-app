@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.header {
+  background-color: rgb(101, 190, 190);
+  padding: 10px;
+}
+
+#search {
+  font-size: 25px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: 600;
+}
